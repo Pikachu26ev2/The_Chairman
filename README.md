@@ -1,4 +1,10 @@
-# The_Chairman
+REQUIREMENTS:
+-Python 3.8 or later
+-Tkinter (Library)
+-Time (Library)
+
+
+
 This is how it works:
 
 
@@ -38,3 +44,8 @@ bg|5|
 Example of story.tronsky:
 STR|bg|0|text|0|0|0|1|Paragraph of text, press SPACE to continue|text|0|0|0|1|this is a demo, press space|end|
 
+Settings:
+In settings.txt, the order is:
+Screen Width (Not working, don't change)
+Your Name (Credit yourself)
+Text Speed (0 = instant 0.01 = fast 0.1 = slow 1 = very slow, time is in seconds)
